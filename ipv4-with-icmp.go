@@ -1,4 +1,4 @@
-package go_packets_crafting
+package main
 
 import (
 	"encoding/binary"
