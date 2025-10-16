@@ -1,0 +1,49 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the Go build
+/bin/
+/out/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# User-specific files
+*.iws
+*.ipr
+
+# Go workspace file
+go.work
+
+# Vendor directory (if using vendoring)
+/vendor/
+
+# Dependency directories
+/pkg/mod/
+
+# Test binary
+*.test
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Coverage reports
+coverage.out
+
+# Mac OS files
+.DS_Store
+
+# Vim swap files
+*.swp
+
+# JetBrains IDE config files
+.idea/
+
+# Environment files
+.env
